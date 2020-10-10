@@ -2,10 +2,20 @@
 
 Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
-# Dikkat , Kullanımsal Uyarı!
+# 💁‍♂️ Peki sizi neler bekliyor olacak?!
 
-Kaguwo's Old Network Türkçe hali henüz test sürecindedir. Bir hata ile karşılaşırsanız <code> contributing.md </code> alanına göz atın!
+İşte tam olarak burada sizi nelerin beklediğini görebilmeniz için harika bir liste hazırladık! İşte başlıyoruz..
 
-# Style.css Dosyası Hakkında
+- Genel ve önemli bazı komut satırlarına eklenen açıklamalar.
+- Bu açıklamalarda bulunan komutları nasıl düzenleyeceğinize dair bilgiler.
+- Yeni ve özelleştirilebilir renkler.
+- Gerisayım kanalında düzeltmeler ve iyileştirmeler.
 
-<code> style.css </code> Dosyasında yaptığın küçük 1 değişiklik Network'ün doğru çalışmasına engel olur.
+# 📩 Nasıl katkı sağlayabilirsiniz?
+
+Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir veya Starlayabilirsiniz, eğer bu proje üzerinde çalışmak ve bu projeyi düzenlemek isterseniz Forkladığınız proje üzerinde çalışabilirsiniz.
+
+# 🙏 Ek "İlgili" Bağlantılar!
+
+- <a href="https://kaguwo.com/"> Bu Proje'nin Canlı Hali! </a>
+- <a href="https://github.com/KaguwoNetwork"> Geliştirici Topluluğumuz! </a>
