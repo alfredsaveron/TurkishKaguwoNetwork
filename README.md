@@ -1,6 +1,6 @@
-# Kişisel olarak hazırlanmış , basit çaplı görünen fakat aslında öyle olmayan Kişisel Sabit Sayfa!
+# 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!
 
-Daha fazla bilgilendirme için bekleyiniz! Sadece 1 Haftada yapılmıştır ve Yapımından kısa süre ardından Türkçe Halini almıştır!
+Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
 # Dikkat , Kullanımsal Uyarı!
 
