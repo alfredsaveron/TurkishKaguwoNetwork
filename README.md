@@ -1,6 +1,6 @@
 # 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!
 
-Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
+Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
 # 💁‍♂️ Peki sizi neler bekliyor olacak?!
 
