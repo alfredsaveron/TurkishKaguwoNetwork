@@ -7,7 +7,7 @@ Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş
 İşte tam olarak burada sizi nelerin beklediğini görebilmeniz için harika bir liste hazırladık! İşte başlıyoruz..
 
 - Genel ve önemli bazı komut satırlarına eklenen açıklamalar.
-- Bu açıklamalarda bulunan komutları nasıl düzenleyeceğinize dair bilgiler.
+- Bu açıklamalarda bulunan komutları nasıl düzenleyeceğinize dair bilgiler..
 - Yeni ve özelleştirilebilir renkler..
 - Gerisayım kanalında düzeltmeler ve iyileştirmeler..
 
