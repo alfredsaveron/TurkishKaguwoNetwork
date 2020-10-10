@@ -9,7 +9,7 @@ Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş
 - Genel ve önemli bazı komut satırlarına eklenen açıklamalar.
 - Bu açıklamalarda bulunan komutları nasıl düzenleyeceğinize dair bilgiler.
 - Yeni ve özelleştirilebilir renkler.
-- Gerisayım kanalında düzeltmeler ve iyileştirmeler.
+- Gerisayım kanalında düzeltmeler ve iyileştirmeler..
 
 # 📩 Nasıl katkı sağlayabilirsiniz?
 
