@@ -13,7 +13,7 @@ Temiz ve kullanışlı komutlara sahip Eski Network'ün Türkçe'ye çevirilmiş
 
 # 📩 Nasıl katkı sağlayabilirsiniz?
 
-Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir veya Starlayabilirsiniz, eğer bu proje üzerinde çalışmak ve bu projeyi düzenlemek isterseniz Forkladığınız proje üzerinde çalışabilirsiniz.
+Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir veya Starlayabilirsiniz, eğer bu proje üzerinde çalışmak ve bu projeyi düzenlemek isterseniz Forkladığınız proje üzerinde çalışabilirsiniz..
 
 # 🙏 Ek "İlgili" Bağlantılar!
 
