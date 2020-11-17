@@ -1,4 +1,4 @@
-# 📝 Sabit ve Kullanışlı bir Portfolio Hayal!
+# 📝 Sabit ve Kullanışlı bir Portfolio Hayal Edin!
 
 Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
