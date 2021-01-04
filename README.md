@@ -18,4 +18,4 @@ Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir vey
 # 🙏 Ek "İlgili" Bağlantılar!
 
 - <a href="https://kaguwo.com/"> Bu Proje'nin Canlı Hali! </a>
-- <a href="https://github.com/KaguwoNetwork"> Geliştirici Topluluğumuz! </a>
+- <a href="https://github.com/AestasFlores"> Geliştirici Topluluğumuz! </a>
